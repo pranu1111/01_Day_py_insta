@@ -1,2 +1,2 @@
-# 01_Day_py_insta
-python installation 
+# 01_Day_py_vsc_installation
+Python and VS Code installation 
